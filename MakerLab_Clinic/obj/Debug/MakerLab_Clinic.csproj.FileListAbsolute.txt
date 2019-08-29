@@ -1,0 +1,16 @@
+C:\Users\jose_\OneDrive\Documentos\C# Proyectos\MakerLab_Clinic\bin\Debug\MakerLab_Clinic.exe.config
+C:\Users\jose_\OneDrive\Documentos\C# Proyectos\MakerLab_Clinic\bin\Debug\MakerLab_Clinic.exe
+C:\Users\jose_\OneDrive\Documentos\C# Proyectos\MakerLab_Clinic\bin\Debug\MakerLab_Clinic.pdb
+C:\Users\jose_\OneDrive\Documentos\C# Proyectos\MakerLab_Clinic\obj\Debug\MakerLab_Clinic.csprojAssemblyReference.cache
+C:\Users\jose_\OneDrive\Documentos\C# Proyectos\MakerLab_Clinic\obj\Debug\MakerLab_Clinic.frmLogin.resources
+C:\Users\jose_\OneDrive\Documentos\C# Proyectos\MakerLab_Clinic\obj\Debug\MakerLab_Clinic.Properties.Resources.resources
+C:\Users\jose_\OneDrive\Documentos\C# Proyectos\MakerLab_Clinic\obj\Debug\MakerLab_Clinic.csproj.GenerateResource.cache
+C:\Users\jose_\OneDrive\Documentos\C# Proyectos\MakerLab_Clinic\obj\Debug\MakerLab_Clinic.csproj.CoreCompileInputs.cache
+C:\Users\jose_\OneDrive\Documentos\C# Proyectos\MakerLab_Clinic\obj\Debug\MakerLab_Clinic.exe
+C:\Users\jose_\OneDrive\Documentos\C# Proyectos\MakerLab_Clinic\obj\Debug\MakerLab_Clinic.pdb
+C:\Users\jose_\OneDrive\Documentos\C# Proyectos\MakerLab_Clinic\obj\Debug\MakerLab_Clinic.Formularios.frmAreas.resources
+C:\Users\jose_\OneDrive\Documentos\C# Proyectos\MakerLab_Clinic\obj\Debug\MakerLab_Clinic.Formularios.frmCitas.resources
+C:\Users\jose_\OneDrive\Documentos\C# Proyectos\MakerLab_Clinic\obj\Debug\MakerLab_Clinic.Formularios.frmPacientes.resources
+C:\Users\jose_\OneDrive\Documentos\C# Proyectos\MakerLab_Clinic\obj\Debug\MakerLab_Clinic.Formularios.frmPlan_Intervension.resources
+C:\Users\jose_\OneDrive\Documentos\C# Proyectos\MakerLab_Clinic\obj\Debug\MakerLab_Clinic.Formularios.frmUsuarios.resources
+C:\Users\jose_\OneDrive\Documentos\C# Proyectos\MakerLab_Clinic\obj\Debug\MakerLab_Clinic.frmMenu.resources
